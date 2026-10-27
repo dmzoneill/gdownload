@@ -1,5 +1,9 @@
 # gdownload
 
+<p align="center">
+  <img src=".github/logo.png" alt="gdownload logo" width="128" />
+</p>
+
 A Java Swing download manager for Google Video links, plus a small Java
 timer example.
 
